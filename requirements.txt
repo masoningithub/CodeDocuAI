@@ -1,0 +1,7 @@
+streamlit
+openai
+python-docx
+gtts
+PyMuPDF
+docx2txt
+streamlit-mermaid
